@@ -10,8 +10,8 @@ You need to recheck and ban all cheaters
 [lw36.json](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/lw36.json) Lucky Wheel #36 0xf9b22eab6792504b2fc145328d4db738951cebb01043490e8e093d967a6ed2fc
 
 
-### Cheaters "Receive OCEAN from other wallets":
+### Cheaters "Receive OCEAN from other wallets after 26 May":
 
 
 
-### Big cheaters "massive send OCEAN to other wallets":
+### Big cheaters "massive send OCEAN to other wallets after 26 May":
