@@ -16,7 +16,7 @@ From me, I'll try to update everyday
 
 ### Violators of "Receive OCEAN from other wallets after 26 May" rule:
 
-> Lucky Wheel #42 | Object: [SuiVision](https://suivision.xyz/object/0x586eac29326c335cc78b6e11f4c266c1592b2bc64e9d056f770b069eebcb9e95) | Detected **2,860 cheaters** out of 17,872 participants | [Check] (https://github.com/nobrainmoves/wavewalletcheaters/blob/main/Receive%20Ocean%20Lucky%20Wheel%20%2342.json)  
+> Lucky Wheel #42 | Object: [SuiVision](https://suivision.xyz/object/0x586eac29326c335cc78b6e11f4c266c1592b2bc64e9d056f770b069eebcb9e95) | Detected **2,860 cheaters** out of 17,872 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/Receive%20Ocean%20Lucky%20Wheel%20%2342.json)  
 > Lucky Wheel #41 | Object: [SuiVision](https://suivision.xyz/object/0xb8b298da57585c4d1d2d3d239ced67c1d359b0fd573affa618ad5242eb162578) | Detected **3,491 cheaters** out of 18,889 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/Receive%20Ocean%20Lucky%20Wheel%20%2341.json)  
 
 ### Big cheaters "Massive sending OCEAN to other wallets after 26 May":
