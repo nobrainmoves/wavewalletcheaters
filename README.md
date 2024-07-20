@@ -7,6 +7,7 @@ From me, I'll try to update everyday
 
 ### Violators of "Swap OCEAN after 26 May" rule:
 
+> *19.07.2024* | Lucky Wheel #49 | Object: [SuiVision](https://suivision.xyz/object/0xea8df7f0fba60da247377750725fe8aaf39121d163fa999b854153a3f5075fa0) | Detected **800  cheaters** out of 19,119 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/SwapCheaters/Swap%20Ocean%20Lucky%20Wheel%20%2349.json)  
 > *18.07.2024* | Lucky Wheel #47 | Object: [SuiVision](https://suivision.xyz/object/0x03494310756fbc9c204bea4ecb13bd791030d951e14da28803ed5b78572da548) | Detected **1,035  cheaters** out of 16,840 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/SwapCheaters/Swap%20Ocean%20Lucky%20Wheel%20%2347.json)  
 > *17.07.2024* | Lucky Wheel #46 | Object: [SuiVision](https://suivision.xyz/object/0x5ba1d48cac15f2a8362861a4377a490dc47e45208ad2b239d90ad528b8e97116) | Detected **1,089  cheaters** out of 17,754 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/SwapCheaters/Swap%20Ocean%20Lucky%20Wheel%20%2346.json)  
 > *16.07.2024* | Lucky Wheel #45 | Object: [SuiVision](https://suivision.xyz/object/0x5bcfd1a83abb262ee102d0b2fa2e4fe6ef250308fa5536f9a98d0103966473e6) | Detected **1,061  cheaters** out of 18,743 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/SwapCheaters/Swap%20Ocean%20Lucky%20Wheel%20%2345.json)  
@@ -21,6 +22,7 @@ From me, I'll try to update everyday
 
 ### Violators of "Receive OCEAN from other wallets after 26 May" rule:
 
+> *19.07.2024* | Lucky Wheel #49 | Object: [SuiVision](https://suivision.xyz/object/0xea8df7f0fba60da247377750725fe8aaf39121d163fa999b854153a3f5075fa0) | Detected **3,063  cheaters** out of 19,119 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/ReceiveCheaters/Receive%20Ocean%20Lucky%20Wheel%20%2349.json)  
 > *18.07.2024* | Lucky Wheel #47 | Object: [SuiVision](https://suivision.xyz/object/0x03494310756fbc9c204bea4ecb13bd791030d951e14da28803ed5b78572da548) | Detected **2,460  cheaters** out of 16,840 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/ReceiveCheaters/Receive%20Ocean%20Lucky%20Wheel%20%2347.json)  
 > *17.07.2024* | Lucky Wheel #46 | Object: [SuiVision](https://suivision.xyz/object/0x5ba1d48cac15f2a8362861a4377a490dc47e45208ad2b239d90ad528b8e97116) | Detected **2,741  cheaters** out of 17,754 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/ReceiveCheaters/Receive%20Ocean%20Lucky%20Wheel%20%2346.json)  
 > *16.07.2024* | Lucky Wheel #45 | Object: [SuiVision](https://suivision.xyz/object/0x5bcfd1a83abb262ee102d0b2fa2e4fe6ef250308fa5536f9a98d0103966473e6) | Detected **2,737  cheaters** out of 18,743 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/ReceiveCheaters/Receive%20Ocean%20Lucky%20Wheel%20%2346.json)  
@@ -31,6 +33,8 @@ From me, I'll try to update everyday
 
 ### Big cheaters "Massive sending OCEAN to other wallets after 26 May":
 
+> *19.07.2024* | Lucky Wheel #49 | Object: [SuiVision](https://suivision.xyz/object/0xea8df7f0fba60da247377750725fe8aaf39121d163fa999b854153a3f5075fa0) | Detected **37  wallets** with 10+ recipients | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/BigCheaters/Big%20Cheaters%2010%2B%20Lucky%20Wheel%20%2349.json)  
+> *19.07.2024* | Lucky Wheel #49 | Object: [SuiVision](https://suivision.xyz/object/0xea8df7f0fba60da247377750725fe8aaf39121d163fa999b854153a3f5075fa0) | Detected **6  wallets** with 100+ recipients | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/BigCheaters/Big%20Cheaters%20100%2B%20Lucky%20Wheel%20%2349.json)  
 > *18.07.2024* | Lucky Wheel #47 | Object: [SuiVision](https://suivision.xyz/object/0x03494310756fbc9c204bea4ecb13bd791030d951e14da28803ed5b78572da548) | Detected **31  wallets** with 10+ recipients | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/BigCheaters/Big%20Cheaters%2010%2B%20Lucky%20Wheel%20%2347.json)  
 > *18.07.2024* | Lucky Wheel #47 | Object: [SuiVision](https://suivision.xyz/object/0x03494310756fbc9c204bea4ecb13bd791030d951e14da28803ed5b78572da548) | Detected **2  wallets** with 100+ recipients | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/BigCheaters/Big%20Cheaters%20100%2B%20Lucky%20Wheel%20%2347.json)  
 > *17.07.2024* | Lucky Wheel #46 | Object: [SuiVision](https://suivision.xyz/object/0x5ba1d48cac15f2a8362861a4377a490dc47e45208ad2b239d90ad528b8e97116) | Detected **60  wallets** with 10+ recipients | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/BigCheaters/Big%20Cheaters%2010%2B%20Lucky%20Wheel%20%2346.json)  
