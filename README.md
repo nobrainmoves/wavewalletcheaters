@@ -5,6 +5,8 @@ In this repository you can see cheaters in your events
 You need to recheck and ban all cheaters  
 From me, I'll try to update everyday
 
+UPD: Team do nothing for fair play, I am disappointed in this project.
+
 ### Violators of "Swap OCEAN after 26 May" rule:
 
 > *26.07.2024* | One Piece Wheel #2 | Object: [SuiVision](https://suivision.xyz/object/0x20d7bc63149ae816f226ae63babf4f0c45092bf7b53b6a1e3925e5efabfdc7aa) | Detected **10  cheaters** out of 8,052 participants | [Check](https://github.com/nobrainmoves/wavewalletcheaters/blob/main/SwapCheaters/Swap%20Ocean%20One%20Piece%20Wheel%20%232.json)  
